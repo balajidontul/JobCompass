@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "naukri.username",
+      "type": "java.lang.String",
+      "description": "Description for naukri.username."
+    },
+    {
+      "name": "naukri.password",
+      "type": "java.lang.String",
+      "description": "Description for naukri.password."
+    }
+  ] }
